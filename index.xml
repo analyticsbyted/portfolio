@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ted Dickey</title>
+    <link>https://analyticsbyted.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Ted Dickey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://analyticsbyted.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://analyticsbyted.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Twitter: https://twitter.com/tdickey8484   LinkedIn: https://www.linkedin.com/in/teddickey/   Github: https://github.com/analyticsbyted    </description>
+    </item>
+    
+    <item>
+      <title>Covid Dashboard Project</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-5/</guid>
+      <description>Covid Global Infections and Deaths
+This dashboard tracks worldwide covid cases and deaths.
+ Key numbers show global total cases, total deaths and percentage of deaths rate. World map depicts regions or world based on percentage of a country&amp;rsquo;s population infected. Bar charts hights total deaths segmented by continent. Time series and forecasting line chart shows actual and estimated percentage of total population infected.   Project Link to Tableau Public</description>
+    </item>
+    
+    <item>
+      <title>Halloween Candy Project Dashboard</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-1/</guid>
+      <description>** Project Summary ** This project used a small data set to create a question/goal to explore the data. The objective was to create a data viz using the provided data collected about trick-or-treaters in Cincinati.
+Background data information and assumptions:
+ Data has been collected since 2008 The trick-or-treat count was recoreded in 30 minute intervals. The night of trick-or-treating has always been on Oct. 31 each year. Official trick-or-treat hours are from 6pm-8pm, but there are often &amp;lsquo;stragglers&amp;rsquo; past 8pm.</description>
+    </item>
+    
+    <item>
+      <title>Hotel Data Analysis Project</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-2/</guid>
+      <description>Project Overview
+ Extracted Excel data sheets into SQL server to create database Tranformed features Loaded database to Power BI Answer stakeholders business questions:   Is our hotel revenue growing by year? There are two hotel types Should we increase our parking lot size? what trends can we see in the data?   Build a visual dashboard using Power BI for presentation   Project Link to Power BI Dashboard</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Sentiment Analysis</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-1/</guid>
+      <description>** Project Summary **
+ Constructed Dashboard that shows all cash offshore, estimated US tax bill and totalk offshore subsidiares as KPIs. Drill-down menus for company or country Global map depiction of locations Tables for top tax havens by country and amounts   Project 1 Link to Rpubs Markdown Report</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Customer Market Segmentation</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-2/</guid>
+      <description>Unsupervised Machine Learning Example (Python)
+Problem Statement: Understand the target customers for the marketing team to plan a strategy.
+Context: Client wants the most important shopping groups identified based on income, age, and the mall shopping score.
+Client wants the ideal number of groups with a label for each.
+ Created subsets of a market based on demographic behavioral criteria to better understand the target for marketing activities. Data provided needed minimal cleaning and tranformation of Gender predictor from character to factor.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Corporate Tax Havens Dashboard</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-3/</guid>
+      <description>** Project Summary **
+ Constructed Dashboard that shows all cash offshore, estimated US tax bill and totalk offshore subsidiares as KPIs. Drill-down menus for company or country Global map depiction of locations Tables for top tax havens by country and amounts   Project 3 Link to Tableau Public</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Data Cleaning in SQL</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-4/</guid>
+      <description>Extracted data from csv file from server. Standardized date format. Populatated some missing PropertyAddress fields. Split Address field into Address, City and State features. Changed &amp;lsquo;Y&amp;rsquo; and &amp;lsquo;N&amp;rsquo; to &amp;lsquo;Yes&amp;rsquo; and &amp;lsquo;No&amp;rsquo; in &amp;lsquo;Sold as Vacant&amp;rsquo; field. Removed clearly duplicated records. Removed unused columns.   SQL Code Snippet   Project 4 Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Retail Sales Dashboard</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-6/</guid>
+      <description>Superstore Retail Sales Dashboard
+This dashboard tracks global sales figures for the Tableau Superstore dataset.
+ KPIs indicate total sales, profit, quantity sold, and discount. Monthly actual and forecasted sales trend chart. Country map indicating areas of sales by location and amount. Bar charts highlighting top sales by product sub category and regions. Drill down by date range, product category of segnment functionality.   Project Link to Tableau Public</description>
+    </item>
+    
+    <item>
+      <title>Sankey Chart Visualization</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-4/</guid>
+      <description>Sankey Sales Flow from Segment to Region
+A Sankey diagram is a perfect chart to show the flow and relationship between stages of a process. However, as demonstrated here, it can be used to link and visualize revenues between business segments and regions.
+ Created flow chart for sales from commercial, public, and residential segments to the four regions. Width of the series is proportional to the quantity of the flow Set custom colors for nodes and links.</description>
+    </item>
+    
+    <item>
+      <title>Tribute to Rosling: Gapminder</title>
+      <link>https://analyticsbyted.github.io/portfolio/viz/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/viz/project-3/</guid>
+      <description>The original Hans Rosling, Gapminder and Data Blending interactive graph shows how long people live and how the number of children a woman has is affected by how much money they earn using different data sources. More information on the original project can be found here. Also, I would encourage everyone to visit Gapminder.org for more on &amp;lsquo;Wealth &amp;amp; Health of Nations.
+ Project Link to Tableau Public</description>
+    </item>
+    
+  </channel>
+</rss>

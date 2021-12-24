@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Ted Dickey</title>
+    <link>https://analyticsbyted.github.io/portfolio/tags/scene/</link>
+    <description>Recent content in scene on Ted Dickey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://analyticsbyted.github.io/portfolio/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Data Cleaning in SQL</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-1/</guid>
+      <description>Extracted data from csv file from server. Standardized date format. Populatated some missing PropertyAddress fields. Split Address field into Address, City and State features. Changed &amp;lsquo;Y&amp;rsquo; and &amp;lsquo;N&amp;rsquo; to &amp;lsquo;Yes&amp;rsquo; and &amp;lsquo;No&amp;rsquo; in &amp;lsquo;Sold as Vacant&amp;rsquo; field. Removed clearly duplicated records. Removed unused columns.   SQL Code Snippet   Project 1 Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

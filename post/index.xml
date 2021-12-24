@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ted Dickey</title>
+    <link>https://analyticsbyted.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Ted Dickey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://analyticsbyted.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Sentiment Analysis</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-1/</guid>
+      <description>** Project Summary **
+ Constructed Dashboard that shows all cash offshore, estimated US tax bill and totalk offshore subsidiares as KPIs. Drill-down menus for company or country Global map depiction of locations Tables for top tax havens by country and amounts   Project 1 Link to Rpubs Markdown Report</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Customer Market Segmentation</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-2/</guid>
+      <description>Unsupervised Machine Learning Example (Python)
+Problem Statement: Understand the target customers for the marketing team to plan a strategy.
+Context: Client wants the most important shopping groups identified based on income, age, and the mall shopping score.
+Client wants the ideal number of groups with a label for each.
+ Created subsets of a market based on demographic behavioral criteria to better understand the target for marketing activities. Data provided needed minimal cleaning and tranformation of Gender predictor from character to factor.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Corporate Tax Havens Dashboard</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-3/</guid>
+      <description>** Project Summary **
+ Constructed Dashboard that shows all cash offshore, estimated US tax bill and totalk offshore subsidiares as KPIs. Drill-down menus for company or country Global map depiction of locations Tables for top tax havens by country and amounts   Project 3 Link to Tableau Public</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Data Cleaning in SQL</title>
+      <link>https://analyticsbyted.github.io/portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://analyticsbyted.github.io/portfolio/post/project-4/</guid>
+      <description>Extracted data from csv file from server. Standardized date format. Populatated some missing PropertyAddress fields. Split Address field into Address, City and State features. Changed &amp;lsquo;Y&amp;rsquo; and &amp;lsquo;N&amp;rsquo; to &amp;lsquo;Yes&amp;rsquo; and &amp;lsquo;No&amp;rsquo; in &amp;lsquo;Sold as Vacant&amp;rsquo; field. Removed clearly duplicated records. Removed unused columns.   SQL Code Snippet   Project 4 Link to Github Repository</description>
+    </item>
+    
+  </channel>
+</rss>
